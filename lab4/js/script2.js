@@ -1,0 +1,1 @@
+console.log("Ribe u consolu iz druge scripte!!!");
